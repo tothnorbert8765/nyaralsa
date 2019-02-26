@@ -1,0 +1,22 @@
+body{
+	background-color:#BDB76B;
+	color: green;
+	font-family: Times New Eoman, serif;
+margin: 30px auto;
+width: 70%;
+font-size:14pt;
+text-align: justify;
+border:solid green 30px;
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+ul{
+	text-align:left;
+}
+#kozepes{
+	width:180px;
+}
